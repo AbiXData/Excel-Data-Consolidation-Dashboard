@@ -4,7 +4,7 @@ This project demonstrates Excel-based data consolidation, data quality validatio
 
 The goal was to transform raw, inconsistent data into a single, reliable reporting dataset and present insights through structured analysis and an interactive Excel dashboard.
 
-![Dashboard Preview](exports/dashboard.png)
+KPI/Dashboard.xlsx
 
 ---
 
